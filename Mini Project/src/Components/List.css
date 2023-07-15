@@ -1,0 +1,59 @@
+
+.list{
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+.card-image{
+    width:250px;
+    height: 250px;
+}
+
+
+.DetailCardImg{
+    text-align: center;
+}
+
+.card-image:hover{
+    transform: rotateX(360deg);
+}
+
+.card-container{
+    margin: 20px 18px;
+    text-align: center;
+    display: flex;
+}
+
+.NavBarBrand img{
+    width: 60px;
+    transition: 1s;
+    
+}
+
+.NavBarBrand:hover img{
+    transform : skew(360deg);
+    scale: 1.5;
+}
+
+.Card-Detail2{
+    justify-content: center;
+    /* display: flex; */
+}
+
+.lineHeight{
+    line-height: 34px;
+    text-align: start;
+    font-size: 20px;
+}
+
+.detailImg{
+    width: 330px;
+    height: 300px;
+    padding-left:15px;
+
+}
+
+.filmImg{
+    width : 270px;
+    height: 250px;
+}
+
