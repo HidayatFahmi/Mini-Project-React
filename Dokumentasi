@@ -2,14 +2,14 @@
 
                 Daftar Library yang Digunakan dalam Proyek
 
-React.js: Digunakan sebagai framework frontend untuk membangun komponen dan mengelola state.
-axios: Digunakan untuk mengirim permintaan HTTP ke API Star Wars.
-react-router-dom: Digunakan untuk mengelola routing halaman dalam aplikasi.
+1. React.js: Digunakan sebagai framework frontend untuk membangun komponen dan mengelola state.
+2. axios: Digunakan untuk mengirim permintaan HTTP ke API Star Wars.
+3. react-router-dom: Digunakan untuk mengelola routing halaman dalam aplikasi.
 
                 Daftar Fitur Tambahan dalam Proyek
 
-Menampilkan daftar kendaraan yang digunakan dalam dunia Star Wars.
-Mengambil informasi teknis tentang setiap kendaraan, seperti tipe, kecepatan maksimum, dan penumpang yang dapat diangkut.
-Menampilkan daftar film di mana setiap kendaraan muncul.
-Mencari kendaraan berdasarkan nama atau jenis.
-Halaman detail untuk setiap kendaraan dengan informasi lebih lengkap.
+1. Menampilkan daftar kendaraan yang digunakan dalam dunia Star Wars.
+2. Mengambil informasi teknis tentang setiap kendaraan, seperti tipe, kecepatan maksimum, dan penumpang yang dapat diangkut.
+3. Menampilkan daftar film di mana setiap kendaraan muncul.
+4. Mencari kendaraan berdasarkan nama atau jenis.
+
